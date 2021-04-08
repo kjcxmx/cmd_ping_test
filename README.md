@@ -13,3 +13,4 @@ Usage of G:\golang\github\cmd_ping_test\main.exe:
         host or ip addr, i.e.:
         -t 127.0.0.1 or -t www.baidu.com
 ```
+欢迎指正、建议
